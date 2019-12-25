@@ -1,0 +1,47 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+@charset 'UTF-8';
+
+@import 'bootstrap/bootstrap';
+
+html, body {
+  margin: 0;
+}
+
+body {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-image: url('/assets/img/background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center top;
+}
+
+.nav-link {
+  color: #0A0A0A;
+}
+
+.content-panel {
+  margin-top: 3em;
+  padding: 1em;
+  margin-left: 3em;
+  margin-right: 3em;
+  background-color: rgba(223,223,223,0.75);
+  border-radius: 5px;
+}
+
+.navbar {
+  background-color: rgba(223,223,223,0.25);
+  -moz-border-radius-bottomleft: 5px;
+  -moz-border-radius-bottomright: 5px;
+  -webkit-border-radius-bottomleft: 5px;
+  -webkit-border-radius-bottomright: 5px;
+  -o-border-radius-bottomleft: 5px;
+  -o-border-radius-bottomright: 5px;
+  border-radius: 5px;
+}
