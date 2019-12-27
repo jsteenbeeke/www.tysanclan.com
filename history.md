@@ -118,3 +118,9 @@ As they reached the massive reinforced gate, Aderion noted a large rune inscript
 "Don't feed the animals," Prospero replied, with a grin on his face, "It is the first tradition to uphold."
 As Prospero dismounted from Aderion's cart, he gave him directions for the guard barracks. As he turned to head in a different direction, Aderion asked a final question, "What will happen to Tysan next?"
 "That is up to you and the rest of the warriors of Tysan. I am simply here to make everybody's job easier," Prospero replied and turned away.
+
+[![CC-BY-NC-SA](./assets/img/cc-by-nc-sa.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/nl/deed.en)
+    
+You may copy this work according to the terms specified by the [Creative
+Commons Attribution-Noncommercial-ShareAlike 3.0 license](http://creativecommons.org/licenses/by-nc-sa/3.0/nl/deed.en),
+provided you include the author's name and a link banck to this site.
