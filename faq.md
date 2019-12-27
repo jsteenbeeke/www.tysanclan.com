@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /roster
+permalink: /faq
 ---
 
 # Frequently asked questions
