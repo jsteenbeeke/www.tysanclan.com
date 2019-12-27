@@ -53,3 +53,8 @@ That would be **Prospero**.
 #### Would he be interested in an updated design?
 
 Certainly! Feel free to suggest it on Discord.
+
+## What happened to your old site?
+
+It was archived in favor of this one. We were barely using the old site, and could no longer justify the expenses of keeping it up.
+Should we experience unexpected growth and need it again, we can always relaunch it.
