@@ -9,8 +9,10 @@ Tysan currently has the following members:
 
 * ArchonAres _(Retired)_
 * Diosdesangre
+* Direwaste
 * Eni
 * LordInfiniti _(Truthsayer)_
+* Pienterekaak
 * Prospero
 * SilentPothead _(Retired)_
 * THP
