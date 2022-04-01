@@ -3,16 +3,16 @@ layout: page
 permalink: /charter
 ---
 
-This charter describes the organisation known as the Tysan Clan, it's procedures, the roles, privileges and duties of it's members for as long as they choose to keep using this website.
+This charter describes the organisation known as the Disco Clan, it's procedures, the roles, privileges and duties of it's members for as long as they choose to keep using this website.
 
 # 1. Membership
-The Tysan Clan is a private organisation and reserves the right to grant or deny membership to any person.
+The Disco Clan is a private organisation and reserves the right to grant or deny membership to any person.
 
 ## 1.2. Becoming a member
 Membership may be requested by any person, unless said person is:
 
    1  Under 13 years of age. Further age restrictions may be imposed by regulations
-   2. A member of another online gaming organisation involved in the same games as the Tysan Clan. Exceptions may be granted by regulations on a group basis, or by the Chancellor on an individual basis
+   2. A member of another online gaming organisation involved in the same games as the Disco Clan. Exceptions may be granted by regulations on a group basis, or by the Chancellor on an individual basis
    3. A former member whose membership was terminated following a Truthsayer trial
 
 ## 1.3. Trial period
@@ -31,7 +31,7 @@ Furthermore, a membership may be terminated in the following situations:
    4. A member has been found in violation of a regulation and been judged guilty by a Truthsayer, with either the member having comitted a severe infraction, or multiple minor ones. Such a violation also permanently revokes any right of membership.
 
 # 2. Regulations
-Regulations are special rules of conduct that place limitations upon the behavior and conduct of members of the Tysan Clan.
+Regulations are special rules of conduct that place limitations upon the behavior and conduct of members of the Disco Clan.
 
 ## 2.1. Introduction and amendment
 A regulation can be introduced or altered in two ways:
@@ -49,22 +49,22 @@ A regulation can be repealed in two ways:
 A regulation is subject to the following limitations:
 
    1. A regulation may not contradict this charter, or other existing regulations
-   2. A regulation may not impose restrictions on the private lives of members, nor coerce them to undertake any action not related to games played by Tysan, including, but not limited to:
+   2. A regulation may not impose restrictions on the private lives of members, nor coerce them to undertake any action not related to games played by Disco, including, but not limited to:
       1. Mandatory attendance at given times
       2. Meeting of other members in person, or if such meetings do take place voluntarily, any action at such a meeting
       3. The requirement of making monetary contributions
-      4. The requirement of making in-game contributions, unless the contribution involves an in-game object or currency that was obtained as part of a group effort by a group containing at least 50% Tysan Members. Acts demanding in-game currency-based contributions are limited to 10% of the total amount obtained by a player during said effort
+      4. The requirement of making in-game contributions, unless the contribution involves an in-game object or currency that was obtained as part of a group effort by a group containing at least 50% Disco Members. Acts demanding in-game currency-based contributions are limited to 10% of the total amount obtained by a player during said effort
       5. Grant powers not granted by this charter to a given rank
    3. A regulation may not promote the use of tools or practices deemed "non-legit", with the exception of tools for channel moderation.
    4. A regulation may not promote activities that are in violation of the Terms of Use or End User License Agreements of any games played
-   5. A regulation may not promote activities that are illegal in any countries inhabited by members of the Tysan Clan
+   5. A regulation may not promote activities that are illegal in any countries inhabited by members of the Disco Clan
    6. A regulation may not limit free speech, though it may enforce civil behavior
 
 # 3. Ranks
-Each member of the Tysan Clan is given a rank, representing either seniority or a specific function. These ranks are Chancellor, Senator, Truthsayer, Revered Member, Senior Member, Full Member, Junior Member and Trial Member. Each rank represents either a certain length of membership, or an elected position. No rank grants a member the right to give commands to other members, unless as specified in this charter or as in regulations, subject to the restrictions given in section 2.3.
+Each member of the Disco Clan is given a rank, representing either seniority or a specific function. These ranks are Chancellor, Senator, Truthsayer, Revered Member, Senior Member, Full Member, Junior Member and Trial Member. Each rank represents either a certain length of membership, or an elected position. No rank grants a member the right to give commands to other members, unless as specified in this charter or as in regulations, subject to the restrictions given in section 2.3.
 
 ## 3.1. Chancellor
-The Chancellor is the executive branch of the Tysan Clan, and is therefore also it's symbolic leader.
+The Chancellor is the executive branch of the Disco Clan, and is therefore also it's symbolic leader.
 
 ### 3.1.1. Privileges and responsibilities
 The Chancellor has the following privileges and responsibilities:
@@ -93,7 +93,7 @@ A Chancellor loses his position in the following cases:
 A former Chancellor is however free to participate in elections, and can therefore be re-elected after being impeached.
 
 ## 3.2. Senator
-The Senate is the legislative branch of the Tysan Clan, as well as a moderator for both the Chancellor and for Truthsayers. A member of the Senate is called a senator.
+The Senate is the legislative branch of the Disco Clan, as well as a moderator for both the Chancellor and for Truthsayers. A member of the Senate is called a senator.
 
 ### 3.2.1. Privileges and responsibilities
 A Senator has the following privileges and responsibilities:
@@ -124,7 +124,7 @@ A Senator loses his position in the following cases:
 Note that convictions do not bar a member from participating in elections - so a convicted member can become Senator again.
 
 ## 3.3. Truthsayer
-The Truthsayers form the judicial branch of the Tysan Clan, and act as moderators and judges both online and on our website.
+The Truthsayers form the judicial branch of the Disco Clan, and act as moderators and judges both online and on our website.
 
 ### 3.3.1. Privileges and responsibilities
 A Truthsayer has the following rights and responsibilities.
@@ -133,7 +133,7 @@ A Truthsayer has the following rights and responsibilities.
    2. A Truthsayer has the right to declare a regulation "untenable", after which a clan majority can decide to repeal the act
    3. A Truthsayer has the right to convict other members of regulation violations. Note however that a Truthsayer can not convict a member if he himself pressed the charges, but another Truthsayer can
    4. A Truthsayer has the right to moderate any public forum
-   5. A Truthsayer has the duty to uphold the legit nature of the Tysan Clan as vigorously as possible
+   5. A Truthsayer has the duty to uphold the legit nature of the Disco Clan as vigorously as possible
    6. A Truthsayer has the right to approve achievement requests of members
    7. A Truthsayer may block a new achievement if it uses imagery that violates regulations, upon which the submitter may submit a new image to restart the vote
    8. A Truthsayer may remove a new achievement if it violates or promotes the violation of this charter or one or more Regulations
@@ -174,7 +174,7 @@ The four remaining ranks are Junior Member, Full Member, Senior Member and Rever
   4. The rank of Revered Member is granted after 5 years of membership
 
 ## 4. Groups
-Members of the Tysan Clan have the right to form groups. There are 3 types of groups: gaming groups, social groups and committees. A gaming group is a group dedicated to playing a certain game. A social group is a group of people sharing a common interest, and a committee is a special group created by the Chancellor for a specific clan purpose.
+Members of the Disco Clan have the right to form groups. There are 3 types of groups: gaming groups, social groups and committees. A gaming group is a group dedicated to playing a certain game. A social group is a group of people sharing a common interest, and a committee is a special group created by the Chancellor for a specific clan purpose.
 ### 4.1. Formation
 Any member with the rank Full Member or higher can request the creation of a gaming group or social group, which must be approved by the Chancellor. In addition, the Chancellor can create committees.
 ### 4.2. Leadership
@@ -238,7 +238,7 @@ Should the Herald no longer wish to fulfill his role for whatever reason, he mus
 The current Herald is: **Prospero**
 
 ## 5.4 Website Administrators
-A Website Administrator is defined as any member of Tysan who can directly access the database running the website, as well as any member with write access to the source code repository. Website Administrators are subject to the following limitations and privileges:
+A Website Administrator is defined as any member of Disco who can directly access the database running the website, as well as any member with write access to the source code repository. Website Administrators are subject to the following limitations and privileges:
 
    1. Website Administrators may create new features for this website at their own disgression, provided these features do not violate the charter or any regulations, and provided that features of broad enough scope will be submitted for Charter inclusion (with the understanding that if there is any doubt regarding the scope, it will be submitted)
    2. Website Administrators may not use their position for personal gain, revenge, or other actions that would by any reasonable moral standard be considered petty
@@ -251,7 +251,7 @@ Achievements represent a predefined set of goals that can be achieved by members
 Any member with a rank of at least Full Member may create a proposal for a new Achievement. To do so, he must provide a name and description (which must include detailed instructions for the conditions under which it is achieved) as well as a small icon to be displayed with the achievement
 
 ## 6.2 Approving new achievements
-An achievement must be supported by a mjaority of the Senate, and may be vetoed by the Chancellor (in which case the required percentage becomes 66% of the full Senate). In addition, Truthsayers may block a proposed achievement if it has an icon that violates Tysan Regulations. A blocked proposal may be unblocked by submitting a new image, upon which the vote restarts. If the achievement violates or promotes the violation of the Charter or one or more Regulation, a Truthsayer may remove the request completely.
+An achievement must be supported by a mjaority of the Senate, and may be vetoed by the Chancellor (in which case the required percentage becomes 66% of the full Senate). In addition, Truthsayers may block a proposed achievement if it has an icon that violates Disco Regulations. A blocked proposal may be unblocked by submitting a new image, upon which the vote restarts. If the achievement violates or promotes the violation of the Charter or one or more Regulation, a Truthsayer may remove the request completely.
 
 ## 6.3 Granting achievements to members
 To get an achievement displayed in an appropriate location associated with that member, a request must be submitted by the member who has met the requirements. Evidence in the form of a URL or a screenshot must be supplied. A Truthsayer can then choose to grant or decline the request. Evidence that is not authentic and/or falsified in any way or form will be punished as per regulations.
@@ -267,6 +267,6 @@ A Charter change may be requested by any member with the rank Chancellor, Senato
    6. Any person who does not approve of a Charter Change must provide an alternative to the stated problem, unless a majority of those eligible to vote is against the charter change.
 
 # 8. Closing
-This charter describes the procedures and basic rules for the organization of the Tysan Clan. It provides a framework for regulations and denotes the limitations of those in power. This document is not however meant to be a legal document in any nation, state or other sovereign entity or part thereof. Also, it is merely valid for as long as a majority of the Tysan Clan acknowledges it.
+This charter describes the procedures and basic rules for the organization of the Disco Clan. It provides a framework for regulations and denotes the limitations of those in power. This document is not however meant to be a legal document in any nation, state or other sovereign entity or part thereof. Also, it is merely valid for as long as a majority of the Disco Clan acknowledges it.
 
 
