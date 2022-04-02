@@ -5,17 +5,17 @@ permalink: /roster
 
 # Roster
 
-Disco currently has the following members:
+Tysan currently has the following members:
 
-* Tony A. _(Retired)_
-* Tony D.
-* Bobby D.
-* Donna E.
-* Tony L. _(Truthsayer)_
-* Tony P.
-* Bobby P.
-* Tony S. _(Retired)_
-* Tony T.
+* ArchonAres _(Retired)_
+* Diosdesangre
+* Direwaste
+* Eni
+* LordInfiniti _(Truthsayer)_
+* Pienterekaak
+* Prospero
+* SilentPothead _(Retired)_
+* THP
 
 ## Fallen heroes
 
