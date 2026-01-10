@@ -7,8 +7,8 @@ permalink: /roster
 
 Tysan currently has the following members:
 
-* ArchonAres _(Retired)_
-* Diosdesangre
+* ArchonAres
+* Diosdesangre _(Hiatus)_
 * Direwaste
 * Eni
 * LordInfiniti _(Truthsayer)_
@@ -16,6 +16,7 @@ Tysan currently has the following members:
 * Prospero
 * SilentPothead _(Retired)_
 * THP
+* Mabahoka
 
 ## Fallen heroes
 
