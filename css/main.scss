@@ -7,41 +7,72 @@
 
 @import 'bootstrap/bootstrap';
 
-html, body {
-  margin: 0;
-}
+// Modern, social club color palette
+$social-blue: #3a6ea5;
+$social-gray: #f5f6fa;
+$social-dark: #222831;
+$social-accent: #ffb347;
 
 body {
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-image: url('/assets/img/background.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center top;
+  font-family: 'Inter', 'Roboto', 'Open Sans', Arial, sans-serif;
+  color: $social-dark;
+  background: $social-gray;
+  min-height: 100vh;
 }
 
-.nav-link {
-  color: #0A0A0A;
+.glass-panel {
+  background: rgba(255,255,255,0.85);
+  border: 1.5px solid #e0e0e0;
+  border-radius: 18px;
+  box-shadow: 0 4px 24px 0 rgba(58, 110, 165, 0.10);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  padding: 2em;
+  margin: 2em auto;
+  max-width: 900px;
 }
 
-.content-panel {
-  margin-top: 3em;
-  padding: 1em;
-  margin-left: 3em;
-  margin-right: 3em;
-  background-color: rgba(223,223,223,0.75);
-  border-radius: 5px;
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', 'Roboto', 'Open Sans', Arial, sans-serif;
+  font-weight: 900;
+  color: $social-blue;
+  letter-spacing: 1px;
+  text-shadow: none;
 }
 
 .navbar {
-  background-color: rgba(223,223,223,0.25);
-  -moz-border-radius-bottomleft: 5px;
-  -moz-border-radius-bottomright: 5px;
-  -webkit-border-radius-bottomleft: 5px;
-  -webkit-border-radius-bottomright: 5px;
-  -o-border-radius-bottomleft: 5px;
-  -o-border-radius-bottomright: 5px;
-  border-radius: 5px;
+  background: #fff;
+  border-bottom: 2px solid #e0e0e0;
+  box-shadow: 0 2px 8px rgba(58,110,165,0.07);
+}
+
+.navbar-brand, .nav-link {
+  color: $social-blue !important;
+  font-family: 'Inter', 'Roboto', 'Open Sans', Arial, sans-serif;
+  font-weight: 700;
+  transition: color 0.2s;
+}
+
+.nav-link:hover, .nav-link.active {
+  color: $social-accent !important;
+}
+
+footer {
+  background: #fff;
+  color: $social-blue;
+  font-family: 'Inter', 'Roboto', 'Open Sans', Arial, sans-serif;
+  font-size: 1.1em;
+  letter-spacing: 1px;
+  box-shadow: 0 -2px 8px #e0e0e0;
+  border-top: 2px solid #e0e0e0;
+}
+
+// Subtle fade-in animation for panels
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: none; }
+}
+
+.glass-panel, .navbar, footer {
+  animation: fadeIn 1.2s ease;
 }
