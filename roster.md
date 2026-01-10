@@ -13,11 +13,11 @@ Tysan currently has the following members:
 * Direwaste
 * Eni
 * LordInfiniti _(Truthsayer)_
+* Mabahoka
 * Pienterekaak
 * Prospero
 * SilentPothead _(Retired)_
 * THP
-* Mabahoka
 
 ## Fallen heroes
 

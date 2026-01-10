@@ -35,20 +35,20 @@ Either way, we've been here over twenty years.
 
 ## How do I join?
 
-We'll let you know when we figure out a new process for this site.
+Head on over to our Discord and ask us. We don't really have a formal process these days, so please give us an excuse
+to figure out a process for this.
 
 ### Hey, I used to have rank X back in the day, can I get it back?
 
-No. Besides, we more or less abolished our ranking system
+No. Besides, we more or less abolished our ranking system a few years ago.
 
-## Why does your site have a Minecraft background?
+#### More or less?
 
-Minecraft is one of the games we still play, this is a picture of **Prospero**'s castle on our previous server. If you
-have a better background, feel free to suggest it on our Discord server.
+**LordInfiniti** is still our Truthsayer, and **Prospero** hosts the website and runs the Discord server and Minecraft server.
 
 ## Who designed this site?
 
-That would be **Prospero**.
+Originally **Prospero**, though he's not a web designer and one of his mottos is "for the love of God don't let me design user interfaces". After he got bored by the Minecraft design he had CoPilot vibe-code a different design.
 
 #### Would he be interested in an updated design?
 
@@ -56,5 +56,4 @@ Certainly! Feel free to suggest it on Discord.
 
 ## What happened to your old site?
 
-It was archived in favor of this one. We were barely using the old site, and could no longer justify the expenses of keeping it up.
-Should we experience unexpected growth and need it again, we can always relaunch it.
+It was archived in favor of this one. We were barely using the old site, and could no longer justify the expenses of keeping it up. Prospero does still have a project hidden somewhere for a more interactive and modern site but he rarely works on it, and frankly there's no need for it currently.
