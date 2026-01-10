@@ -26,6 +26,7 @@ If you want to have the full experience, you'll need to install [Fabric](https:/
 
 Prospero runs the following mods client-side:
 
+{:class="table"}
 | Name         | What does it do?                                                                                              |
 |--------------|---------------------------------------------------------------------------------------------------------------|
 | ArmorPoser   | Allows modifying armor stand orientations, sizes and visibilities for various effects                         |
