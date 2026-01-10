@@ -1,11 +1,20 @@
 ---
 layout: page
+title: History
 permalink: /history
 ---
 
-By **Prospero**
+<div class="hero hero-small">
+    <h1>The Chronicles of Tysan</h1>
+    <p>An epic tale spanning decades—from the age of Blayde to the modern era</p>
+</div>
 
-_This is a story of fiction. Many of the events described in this story have parallels with actual events that happened since the founding of Tysan, and uses names of actual members wherever possible. Every 10 years in this story correspond to roughly 1 year of actual history since the founding of Tysan in 1997._
+<div style="background: linear-gradient(135deg, rgba(90, 103, 216, 0.1), rgba(118, 75, 162, 0.1)); padding: 2rem; border-radius: 1rem; margin-bottom: 2rem; border-left: 4px solid var(--color-accent-primary);">
+    <p><strong>Author's Note by Prospero:</strong></p>
+    <p><em>This is a story of fiction. Many of the events described in this story have parallels with actual events that happened since the founding of Tysan, and uses names of actual members wherever possible. Every 10 years in this story correspond to roughly 1 year of actual history since the founding of Tysan in 1997.</em></p>
+</div>
+
+## The Journey Begins
 
 Lost in thought, a hooded man walked through the forests southwest of the great city of Everstar. His simple priest robes swept away some of the fallen leaves as he passed underneath the great oak trees. The robes did not cling to the ornate chain mail he wore underneath, and even though they were large enough to conceal weapons, the man had no need of them. The road to Everstar was usually abandoned; very few people traveled east toward the Old Fortress, and most trade from the coast used the river instead.
 

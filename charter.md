@@ -1,9 +1,17 @@
 ---
 layout: page
+title: Charter
 permalink: /charter
 ---
 
-This charter describes the organisation known as the Tysan Clan, it's procedures, the roles, privileges and duties of it's members for as long as they choose to keep using this website.
+<div class="hero hero-small">
+    <h1>The Tysan Charter</h1>
+    <p>Our formal governance structure and organizational framework</p>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(90, 103, 216, 0.1), rgba(118, 75, 162, 0.1)); padding: 2rem; border-radius: 1rem; margin-bottom: 2rem;">
+    <p>This charter describes the organisation known as the Tysan Clan, its procedures, the roles, privileges and duties of its members for as long as they choose to keep using this website.</p>
+</div>
 
 # 1. Membership
 The Tysan Clan is a private organisation and reserves the right to grant or deny membership to any person.

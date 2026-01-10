@@ -1,14 +1,21 @@
 ---
 layout: page
+title: Minecraft Server
 permalink: /minecraft
 ---
-Prospero runs a _mostly Vanilla_ Minecraft Java Edition server at the following location:
 
-```
-ellcrys.dyndns.org
-```
+<div class="hero hero-small">
+    <h1>⛏️ Tysan Minecraft Server</h1>
+    <p>Join us in our blocky adventures on our modded survival server</p>
+</div>
 
-As of writing this, it is running version `1.21.11`. It is a Fabric server with a bunch of mods, a few datapacks, and a custom resourcepack.
+<div style="background: linear-gradient(135deg, rgba(90, 103, 216, 0.1), rgba(72, 187, 120, 0.1)); padding: 2rem; border-radius: 1rem; margin-bottom: 2rem; text-align: center;">
+    <h3 style="margin-top: 0; color: var(--color-accent-primary);">Server Address</h3>
+    <code style="font-size: 1.25rem; padding: 0.5rem 1rem; background: white; border-radius: 0.5rem; display: inline-block;">ellcrys.dyndns.org</code>
+    <p style="margin-top: 1rem; margin-bottom: 0; color: var(--color-neutral-text-light);">Running Minecraft Java Edition <strong>1.21.11</strong> with Fabric</p>
+</div>
+
+Prospero runs a _mostly Vanilla_ Minecraft Java Edition server. It is a Fabric server with a bunch of mods, a few datapacks, and a custom resourcepack.
 
 ## Connecting with Vanilla Minecraft
 
