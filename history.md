@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /history
+title: History
 ---
 
 By **Prospero**

@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /roster
+title: Roster
 ---
 
 # Roster
