@@ -22,5 +22,5 @@ Whether you're an old member looking to reconnect, an old friend reminiscing abo
 
 ---
 
-<small>*Since 1997 - Still Gaming, Still Friends*</small>
+<small>*Since 1997 - Kepeing the traditions alive*</small>
 
