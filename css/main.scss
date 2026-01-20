@@ -7,41 +7,346 @@
 
 @import 'bootstrap/bootstrap';
 
+// Color scheme - Traditional Tysan orange on dark background
+$tysan-orange: #ff6600;
+$tysan-orange-light: #ff8833;
+$tysan-orange-dark: #cc5200;
+$dark-bg: #0a0a0a;
+$dark-card: #1a1a1a;
+$dark-card-hover: #252525;
+$text-light: #e0e0e0;
+$text-muted: #999999;
+
 html, body {
   margin: 0;
+  padding: 0;
+  height: 100%;
 }
 
 body {
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-image: url('/assets/img/background.png');
-  background-repeat: no-repeat;
+  background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 50%, #0a0a0a 100%);
   background-attachment: fixed;
-  background-position: center top;
+  color: $text-light;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+// Navigation
+.navbar {
+  background: rgba(10, 10, 10, 0.95);
+  backdrop-filter: blur(10px);
+  border-bottom: 2px solid $tysan-orange;
+  padding: 1rem 0;
+  box-shadow: 0 2px 20px rgba(255, 102, 0, 0.3);
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: $tysan-orange !important;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: all 0.3s ease;
+
+  &:hover {
+    color: $tysan-orange-light !important;
+    text-shadow: 0 0 10px rgba(255, 102, 0, 0.5);
+  }
 }
 
 .nav-link {
-  color: #0A0A0A;
+  color: $text-light !important;
+  font-weight: 500;
+  padding: 0.5rem 1rem !important;
+  margin: 0 0.25rem;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+
+  &:hover {
+    color: $tysan-orange !important;
+    background: rgba(255, 102, 0, 0.1);
+  }
+
+  &.active {
+    color: $tysan-orange !important;
+  }
+}
+
+.navbar-toggler {
+  border-color: $tysan-orange;
+
+  &:focus {
+    box-shadow: 0 0 0 0.2rem rgba(255, 102, 0, 0.25);
+  }
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23ff6600' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+// Main content area
+.main-wrapper {
+  flex: 1;
+  padding: 2rem 0;
 }
 
 .content-panel {
-  margin-top: 3em;
-  padding: 1em;
-  margin-left: 3em;
-  margin-right: 3em;
-  background-color: rgba(223,223,223,0.75);
-  border-radius: 5px;
+  background: $dark-card;
+  border-radius: 12px;
+  padding: 3rem;
+  margin: 2rem auto;
+  max-width: 1200px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  border: 1px solid rgba(255, 102, 0, 0.2);
+  transition: all 0.3s ease;
+
+  &:hover {
+    box-shadow: 0 12px 48px rgba(255, 102, 0, 0.2);
+    border-color: rgba(255, 102, 0, 0.4);
+  }
+
+  @media (max-width: 768px) {
+    padding: 1.5rem;
+    margin: 1rem;
+  }
 }
 
-.navbar {
-  background-color: rgba(223,223,223,0.25);
-  -moz-border-radius-bottomleft: 5px;
-  -moz-border-radius-bottomright: 5px;
-  -webkit-border-radius-bottomleft: 5px;
-  -webkit-border-radius-bottomright: 5px;
-  -o-border-radius-bottomleft: 5px;
-  -o-border-radius-bottomright: 5px;
-  border-radius: 5px;
+// Typography
+h1, h2, h3, h4, h5, h6 {
+  color: $tysan-orange;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+
+  &:not(:first-child) {
+    margin-top: 2rem;
+  }
+}
+
+h1 {
+  font-size: 2.5rem;
+  border-bottom: 3px solid $tysan-orange;
+  padding-bottom: 0.5rem;
+  margin-bottom: 2rem;
+
+  @media (max-width: 768px) {
+    font-size: 2rem;
+  }
+}
+
+h2 {
+  font-size: 2rem;
+  color: $tysan-orange-light;
+
+  @media (max-width: 768px) {
+    font-size: 1.5rem;
+  }
+}
+
+p {
+  line-height: 1.8;
+  margin-bottom: 1.5rem;
+  color: $text-light;
+}
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+  color: $text-muted;
+  margin-bottom: 2rem;
+  line-height: 1.6;
+}
+
+a {
+  color: $tysan-orange;
+  text-decoration: none;
+  transition: all 0.3s ease;
+
+  &:hover {
+    color: $tysan-orange-light;
+    text-decoration: underline;
+  }
+}
+
+// Horizontal rules
+hr {
+  border: 0;
+  height: 2px;
+  background: linear-gradient(to right, transparent, $tysan-orange, transparent);
+  margin: 2rem 0;
+}
+
+// Small text
+small {
+  color: $text-muted;
+  font-size: 0.875rem;
+}
+
+// Lists
+ul, ol {
+  line-height: 1.8;
+  margin-bottom: 1.5rem;
+
+  li {
+    margin-bottom: 0.5rem;
+  }
+}
+
+// Blockquotes
+blockquote {
+  border-left: 4px solid $tysan-orange;
+  padding-left: 1.5rem;
+  margin: 1.5rem 0;
+  color: $text-muted;
+  font-style: italic;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+// Footer
+.footer {
+  background: rgba(10, 10, 10, 0.95);
+  border-top: 2px solid $tysan-orange;
+  padding: 2rem 0;
+  margin-top: auto;
+
+  .footer-content {
+    color: $text-muted;
+    font-size: 0.9rem;
+
+    a {
+      color: $text-light;
+
+      &:hover {
+        color: $tysan-orange;
+      }
+    }
+  }
+}
+
+// Special elements
+.badge {
+  background: $tysan-orange;
+  color: white;
+  padding: 0.4rem 0.8rem;
+  border-radius: 4px;
+  font-weight: 600;
+  display: inline-block;
+  margin: 0.25rem;
+}
+
+.card {
+  background: $dark-card;
+  border: 1px solid rgba(255, 102, 0, 0.2);
+  color: $text-light;
+  transition: all 0.3s ease;
+
+  &:hover {
+    background: $dark-card-hover;
+    border-color: rgba(255, 102, 0, 0.4);
+    box-shadow: 0 4px 16px rgba(255, 102, 0, 0.2);
+  }
+}
+
+// Discord button/link styling
+.btn-primary {
+  background: $tysan-orange;
+  border-color: $tysan-orange;
+  color: white;
+  font-weight: 600;
+  padding: 0.75rem 1.5rem;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+
+  &:hover {
+    background: $tysan-orange-light;
+    border-color: $tysan-orange-light;
+    box-shadow: 0 4px 12px rgba(255, 102, 0, 0.4);
+    transform: translateY(-2px);
+  }
+
+  &:active {
+    background: $tysan-orange-dark;
+    border-color: $tysan-orange-dark;
+  }
+}
+
+// Tables
+table {
+  width: 100%;
+  margin-bottom: 1.5rem;
+  border-collapse: separate;
+  border-spacing: 0;
+  background: transparent;
+  color: $text-light;
+
+  thead {
+    background: rgba(255, 102, 0, 0.2);
+
+    th {
+      padding: 1rem;
+      border-bottom: 2px solid $tysan-orange;
+      color: $tysan-orange;
+      font-weight: 600;
+      background: transparent;
+    }
+  }
+
+  tbody {
+    background: transparent;
+
+    tr {
+      transition: all 0.2s ease;
+      background: transparent;
+
+      &:hover {
+        background: rgba(255, 102, 0, 0.1);
+      }
+
+      td {
+        padding: 0.75rem 1rem;
+        border-bottom: 1px solid rgba(255, 102, 0, 0.1);
+        color: $text-light;
+        background: transparent;
+      }
+    }
+  }
+}
+
+// Bootstrap table overrides
+.table {
+  --bs-table-bg: transparent;
+  --bs-table-color: #{$text-light};
+  --bs-table-border-color: rgba(255, 102, 0, 0.1);
+  --bs-table-striped-bg: rgba(255, 102, 0, 0.05);
+  --bs-table-striped-color: #{$text-light};
+  --bs-table-active-bg: rgba(255, 102, 0, 0.1);
+  --bs-table-active-color: #{$text-light};
+  --bs-table-hover-bg: rgba(255, 102, 0, 0.1);
+  --bs-table-hover-color: #{$text-light};
+}
+
+// Code blocks
+code {
+  background: rgba(255, 102, 0, 0.1);
+  color: $tysan-orange-light;
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+pre {
+  background: $dark-bg;
+  border: 1px solid rgba(255, 102, 0, 0.2);
+  border-radius: 6px;
+  padding: 1rem;
+  overflow-x: auto;
+
+  code {
+    background: transparent;
+    padding: 0;
+  }
 }

@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /minecraft
+title: Minecraft
 ---
 Prospero runs a _mostly Vanilla_ Minecraft Java Edition server at the following location:
 
@@ -48,3 +49,21 @@ You can download these individually, or use Prospero's convenient [ZIP file](htt
 The current world seed is `The Return of Chicken Jesus`, which is a reference to something that happened during an Ultra Hardcore session where we tried to defeat the Ender Dragon.
 
 We do not currently have a world map, but you can [explore the biomes for this seed at ChunkBase](https://www.chunkbase.com/apps/seed-map#seed=The+Return+of+Chicken+Jesus&platform=java_1_21_9&dimension=overworld).
+
+## Server rules
+
+Based on the set of [guiding principles](./guiding-principles), we have the following rules on The Tysan Clan Minecraft server:
+
+- You are not allowed to kill another player unless a duel or similar arrangement is made beforehand
+- All chests are considered private unless explicitly marked otherwise
+  - If a building or region is marked as a store or shopping district, you will respect the prices marked in/around the chests
+- Usage of client-side mods is allowed if they do not give you an unfair advantage
+  - The mods listed above are all allowed
+  - Mods that give you abilities normally reserved to certain items, potions or creatures (such as flying or increased speed) are banned
+  - X-ray mods are banned
+- Text and voice chat will be kept civil at all times
+- You do not mess with another player's builds
+  - Non-destructive pranks are allowed, within reason
+- If you have more than 1 account whitelisted you are responsible for the actions of any guests you bring along
+- TNT duping for the purpose of farms is allowed
+  - But please don't build [flying machines that drop bombs](https://www.youtube.com/watch?v=CDnT4uEKnww)
