@@ -48,7 +48,13 @@ You can download these individually, or use Prospero's convenient [ZIP file](htt
 
 The current world seed is `The Return of Chicken Jesus`, which is a reference to something that happened during an Ultra Hardcore session where we tried to defeat the Ender Dragon.
 
-We do not currently have a world map, but you can [explore the biomes for this seed at ChunkBase](https://www.chunkbase.com/apps/seed-map#seed=The+Return+of+Chicken+Jesus&platform=java_1_21_9&dimension=overworld).
+We do not currently have a world map, but you can explore the biomes and generated features for this seed at ChunkBase:
+
+| Dimension  | Map                                                                                                                                     |
+|------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| Overworld  | [Overworld seed map](https://www.chunkbase.com/apps/seed-map#seed=The+Return+of+Chicken+Jesus&platform=java_1_21_9&dimension=overworld) |
+| The Nether | [Nether seed map](https://www.chunkbase.com/apps/seed-map#seed=The+Return+of+Chicken+Jesus&platform=java_1_21_9&dimension=nether)       |
+| The End    | [End seed map](https://www.chunkbase.com/apps/seed-map#seed=The+Return+of+Chicken+Jesus&platform=java_1_21_9&dimension=end)             |
 
 ## Server rules
 
