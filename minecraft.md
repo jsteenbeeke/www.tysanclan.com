@@ -9,7 +9,7 @@ Prospero runs a _mostly Vanilla_ Minecraft Java Edition server at the following 
 ellcrys.dyndns.org
 ```
 
-As of writing this, it is running version `1.21.11`. It is a Fabric server with a bunch of mods, a few datapacks, and a custom resourcepack.
+As of writing this, it is running version `26.2`. It is a Fabric server with a bunch of mods, a few datapacks, and a custom resourcepack.
 
 ## Connecting with Vanilla Minecraft
 
@@ -31,6 +31,7 @@ Prospero runs the following mods client-side:
 | Name         | What does it do?                                                                                              |
 |--------------|---------------------------------------------------------------------------------------------------------------|
 | ArmorPoser   | Allows modifying armor stand orientations, sizes and visibilities for various effects                         |
+| Autoclicker  | Allows you to toggle spam-clicking, which is useful in certain semi-automated farms                           |
 | Bobby        | Caches chunk data to massively increase render/visual distance                                                |
 | Cloth Config | Allows other mods to have easily usable configuration screens                                                 |
 | Fabric API   | The basis for all mods                                                                                        |
