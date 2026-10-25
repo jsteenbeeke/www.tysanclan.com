@@ -9,7 +9,7 @@ Prospero runs a _mostly Vanilla_ Minecraft Java Edition server at the following 
 ellcrys.dyndns.org
 ```
 
-As of writing this, it is running version `26.2`. It is a Fabric server with a bunch of mods, a few datapacks, and a custom resourcepack.
+As of writing this, it is running version `26.3`. It is a Fabric server with a bunch of mods, a few datapacks, and a custom resourcepack.
 
 ## Connecting with Vanilla Minecraft
 
